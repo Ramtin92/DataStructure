@@ -1,0 +1,227 @@
+Loser had 21 leaves
+ROUND ONE WINNER: BST
+Sonja Christopher
+hometown: WalnutCreek, CA
+age: 63
+
+Height: 9
+Number of nodes: 36
+Number of leaves: 10
+
+Average age this round 35.0278
+Voted off the island:
+Kelly Wiglesworth
+hometown: LasVegas, NV
+age: 23
+
+Average age this round 35.3714
+Voted off the island:
+Tina Wesson
+hometown: Knoxville, TN
+age: 39
+
+Average age this round 35.2647
+Voted off the island:
+Jeff Varner
+hometown: NewYork, NY
+age: 34
+
+Average age this round 35.303
+Voted off the island:
+Stacey Stillman
+hometown: SanFrancisco, CA
+age: 27
+
+Average age this round 35.5625
+Voted off the island:
+Linda Spencer
+hometown: Cambridge, MA
+age: 44
+
+Average age this round 35.2903
+Voted off the island:
+Michael Skupin
+hometown: WhiteLake, MI
+age: 38
+
+Average age this round 35.2
+Voted off the island:
+Gervase Peterson
+hometown: Philadelphia, PA
+age: 20
+
+Average age this round 35.7241
+Voted off the island:
+Mitchell Olson
+hometown: UnionCity, NJ
+age: 23
+
+Average age this round 36.1786
+Voted off the island:
+Diane Ogden
+hometown: Lincoln, NE
+age: 42
+
+Average age this round 35.963
+Voted off the island:
+Jerri Manthey
+hometown: LosAngeles, CA
+age: 30
+
+Average age this round 36.1923
+Voted off the island:
+Jenna Lewis
+hometown: Franklin, NH
+age: 22
+
+Average age this round 36.76
+Voted off the island:
+Joel Klug
+hometown: Sherwood, AR
+age: 28
+
+Average age this round 37.125
+Voted off the island:
+Sean Kenniff
+hometown: LongIsland, NY
+age: 30
+
+Average age this round 37.4348
+Voted off the island:
+Kimmi Kappenberg
+hometown: Ronkonkoma, NY
+age: 28
+
+Average age this round 37.8636
+Voted off the island:
+Maralyn Hershey
+hometown: Wakefield, VA
+age: 51
+
+Average age this round 37.2381
+Voted off the island:
+Susan Hawk
+hometown: Palmyra, WI
+age: 38
+
+Average age this round 37.2
+Voted off the island:
+Richard Hatch
+hometown: Newport, RI
+age: 39
+
+Average age this round 37.1053
+Voted off the island:
+Colleen Haskell
+hometown: MiamiBeach, FL
+age: 23
+
+Average age this round 37.8889
+Voted off the island:
+Ramona Gray
+hometown: Edison, NJ
+age: 29
+
+Average age this round 38.4118
+Voted off the island:
+Kel Gleason
+hometown: FortHood, TX
+age: 32
+
+Average age this round 38.8125
+Voted off the island:
+Elisabeth Filarski
+hometown: Boston, MA
+age: 23
+
+Average age this round 39.8667
+Voted off the island:
+Keith Famie
+hometown: Bloomfield, MI
+age: 40
+
+Average age this round 39.8571
+Voted off the island:
+Debb Eaton
+hometown: Milan, NH
+age: 45
+
+Average age this round 39.4615
+Voted off the island:
+Colby Donaldson
+hometown: Dallas, TX
+age: 26
+
+Average age this round 40.5833
+Voted off the island:
+Gretchen Cordy
+hometown: Clarksville, TN
+age: 38
+
+Average age this round 40.8182
+Voted off the island:
+Sonja Christopher
+hometown: WalnutCreek, CA
+age: 63
+
+Average age this round 38.6
+Voted off the island:
+Jessie Camacho
+hometown: Orlando, FL
+age: 27
+
+Average age this round 39.8889
+Voted off the island:
+Alicia Calaway
+hometown: NewYork, NY
+age: 32
+
+Average age this round 40.875
+Voted off the island:
+Greg Buis
+hometown: GoldHill, CO
+age: 24
+
+Average age this round 43.2857
+Voted off the island:
+Nick Brown
+hometown: Steilacoom, WA
+age: 23
+
+Average age this round 46.6667
+Voted off the island:
+Amber Brkich
+hometown: Beaver, PA
+age: 22
+
+Average age this round 51.6
+Voted off the island:
+BB Andersen
+hometown: MissionHills, CA
+age: 64
+
+Average age this round 48.5
+Voted off the island:
+Dirk Been
+hometown: SpringGreen, WI
+age: 23
+
+Average age this round 57
+Voted off the island:
+Carl Bilancione
+hometown: WinterSprings, FL
+age: 46
+
+Average age this round 62.5
+Voted off the island:
+Rodger Bingham
+hometown: Crittenden, KY
+age: 53
+
+
+
+WINNING SURVIVOR:
+Rudy Boesch
+hometown: VirginiaBeach, VA
+age: 72
+
